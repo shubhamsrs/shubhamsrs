@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsrs)]
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsrs)
 
 
 <!--
